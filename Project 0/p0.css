@@ -1,0 +1,43 @@
+#wrapAll{
+    width: 1000px;
+    height: 700px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#canvasWrap{
+    position: fixed;
+    top: 50%;
+    left: 65%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    display: inline-block;
+}
+
+h1{ 
+    left: 10%;
+    display:table-cell;
+    vertical-align:middle
+}
+
+#commands{
+    position: fixed;
+    display: inline-block;
+    top: 6%;
+    left: 5%;
+    height: 600px;
+    width: 200px;
+}
+
+#randButt{
+position: fixed;
+    display: inline-block;
+    left:10%;
+    top: 50%;
+    height: 30px;
+    width: 100px;
+}
+

@@ -1,0 +1,26 @@
+Project 0: JavaScript game
+In this project you will be writing a game for a website using JavaScript. 
+The game can be as simple or complex as you want, but the game must be displayed on a webpage. Some helpful ideas for a game are:
+- Tic-tac-toe
+- Memory game (find matching cards, they flip back over if match not found)
+- Checkers
+- Battleship
+Technical requirements
+You must use the following technologies in the project:
+- HTML
+- CSS
+- JavaScript
+Also, you must use some kind of DOM manipulation to reflect the state of the game, 
+and you should use event listeners to respond to user inputs.
+Finally, you should style your page to facilitate good user experience. Some helpful tips:
+- Don't use distracting backgrounds or animations
+- Ensure an adequate contrast ratio so that the user can see any text, shapes, or images on the page
+- Make it as easy as possible for the user to play your game
+Some bonus requirements (not required):
+- User can select 1 Player or 2 Player mode
+- User can play against the computer
+- User can set custom game settings before starting the game
+- User can select the background color of the webpage
+On the due date of the project you will give a 5 minute presentation where
+ you show how the game works on the webpage, as well as explaining your code
+  and how you built the game. Please adhere to this time limit.
